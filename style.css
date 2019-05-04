@@ -1,0 +1,34 @@
+.red
+{
+	background-color: red;
+	margin-right: 15px;
+}
+.green
+{
+	background-color: green;
+	margin-right: 15px;
+}
+
+.blue
+{
+	background-color: blue;
+
+}
+div
+{
+	width: calc(100%/3 - 10px);
+	float: left;
+	height: 400px;
+	line-height: 400px;
+	text-align: center;
+
+
+}
+*
+{
+	box-sizing: border-box;
+}
+body
+{
+	margin:0;
+}
